@@ -1,0 +1,13 @@
+var cantidadDeVentanasEnMiCasa=10;
+var soyHumano=true;
+console.log(soyHumano);
+var miGustoDePizzaPreferido="Napolitana";
+console.log(miGustoDePizzaPreferido);
+var valores=false;
+console.log(valores);
+ valores="Hola";
+console.log(valores);
+ valores=0;
+console.log(valores);
+ valores="Minions";
+console.log(valores);
